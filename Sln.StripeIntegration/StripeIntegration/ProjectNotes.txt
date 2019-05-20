@@ -1,0 +1,9 @@
+﻿
+Using Checkout in an ASP.NET MVC application
+https://stripe.com/docs/checkout/aspnet
+
+
+
+Install-Package Stripe.net -Version 25.19.0
+
+
